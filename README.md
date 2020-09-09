@@ -1,48 +1,15 @@
-# 05 Third-Party APIs: Work Day Scheduler
+# red Delta Flight Schedule
 
-Create a simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+A long time ago in a galaxy far, far away.... 
 
-You'll need to use the [Moment.js](https://momentjs.com/) library to work with date and time. Be sure to read the documentation carefully and concentrate on using Moment.js in the browser.
+I used a simple combination of javascript and css programming to create an easy to use calendar.  In this case, a red Delta Flight Scheduler.  This enables any pilot to save their flight scheulde to the local storage drive.  
 
-## User Story
+In order to do so, the pilot must enter text in the fillable areas and select the red save button.  This will also trigger an alert! 
 
-```
-AS AN employee with a busy schedule
-I WANT to add important events to a daily planner
-SO THAT I can manage my time effectively
-```
+Here is the link to the live page: https://m-source21.github.io/work-day-scheduler/
 
-## Acceptance Criteria
+Here is a link to my github: https://github.com/M-Source21
 
-```
-GIVEN I am using a daily planner to create a schedule
-WHEN I open the planner
-THEN the current day is displayed at the top of the calendar
-WHEN I scroll down
-THEN I am presented with timeblocks for standard business hours
-WHEN I view the timeblocks for that day
-THEN each timeblock is color coded to indicate whether it is in the past, present, or future
-WHEN I click into a timeblock
-THEN I can enter an event
-WHEN I click the save button for that timeblock
-THEN the text for that event is saved in local storage
-WHEN I refresh the page
-THEN the saved events persist
-```
+Enjoy! And May The Force Be With You! 
 
-The following animation demonstrates the application functionality:
-
-![day planner demo](./Assets/05-third-party-apis-homework-demo.gif)
-
-## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
-
-
+![Yoda Hand]()
