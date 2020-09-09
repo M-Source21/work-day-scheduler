@@ -14,11 +14,14 @@ textarea{
     }
 
 .jumbotron {
+    background-image: url("anakin-yoda.jpg");
+    background-size: cover;
     text-align: center;
     background-color: transparent;
     color: black;
     border-radius: 0;
     border-bottom: 10px solid black;
+    
     }
 
 .description{
